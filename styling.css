@@ -1,0 +1,113 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.container{
+    background-color: hsl(216, 50%, 16%);
+    max-width: 265px;
+    height: 435px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+
+.main{
+    width: 220px;
+    margin-right: 6px;
+    margin-left: 22px;
+    margin-top: 19px;
+}
+.second{
+    margin-left: 15px;
+}
+
+.title , p {
+    color: white;
+    padding-left: 15px;
+    
+}
+
+
+p{
+    font-weight: 100;
+    padding-top: 2px;
+}
+
+.price{
+   color: hsl(178, 100%, 50%); 
+   font-size: 13px;
+}
+
+.third{
+    float: right;
+    margin-right: 3px;
+    margin-top: 2px;
+}
+
+.time_left{
+    float: right;
+    margin-right: 15px;
+    color: white;
+    font-weight: 100;
+    font-size: 13px;
+    margin-top: 2px;
+}
+
+.title{
+    font-weight: 500;
+    margin-top: 0px;
+    font-size: 19px;
+}
+
+.idk {
+    padding-top: 0px;
+    margin: 0px;
+    font-size: 15px;
+}
+
+.last_p{
+    float: right;
+    padding-left: 0;
+    margin-right: 58px;
+    font-weight: 100;
+    font-size: 14px;
+    margin-top: 15px;
+}
+#line {
+    width: 80%;
+    margin: auto;
+    border-width: thin 1em;  
+    border-color: rgba(164, 164, 170, 0.781);  
+  }
+
+.avatar_pic{
+    padding-top: 12px;
+    padding-left: 15px;
+    border-width: 1px;
+}
+
+#last{
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.first_div{
+    height: 25px; 
+    margin-top: 5px;
+}
+
+.second_div{
+    margin-top: 15px;
+}
+
+.footer{
+    height: 45px; 
+}
+
+.attribution{
+    color: white;
+}
